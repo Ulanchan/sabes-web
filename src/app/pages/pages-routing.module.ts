@@ -16,6 +16,14 @@ import { PortfolioComponent } from '../shared/portfolio/portfolio.component';
 import { ContactusComponent } from '../shared/contactus/contactus.component';
 import { SertifComponent } from '../shared/sertif/sertif.component';
 import { ZyxwvComponent } from '../shared/zyxwv/zyxwv.component';
+import { JklpoComponent } from '../shared/jklpo/jklpo.component';
+import { NmirfComponent } from '../shared/nmirf/nmirf.component';
+import { AqwsdComponent } from '../shared/aqwsd/aqwsd.component';
+import { KplumComponent } from '../shared/kplum/kplum.component';
+import { QwertComponent } from '../shared/qwert/qwert.component';
+import { YuiopComponent } from '../shared/yuiop/yuiop.component';
+import { AsdfgComponent } from '../shared/asdfg/asdfg.component';
+import { ZxcvbComponent } from '../shared/zxcvb/zxcvb.component';
 
 
 
@@ -28,34 +36,6 @@ const routes: Routes = [
   {
     path: 'index',
     component: IndexComponent
-  },
-  {
-    path: 'index-two',
-    component: IndexTwoComponent
-  },
-  {
-    path: 'index-three',
-    component: IndexThreeComponent
-  },
-  {
-    path: 'index-four',
-    component: IndexFourComponent
-  },
-  {
-    path: 'index-five',
-    component: IndexFiveComponent
-  },
-  {
-    path: 'index-six',
-    component: IndexSixComponent
-  },
-  {
-    path: 'index-seven',
-    component: IndexSevenComponent
-  },
-  {
-    path: 'index-eight',
-    component: IndexEightComponent
   },
   {
     path: 'about',
@@ -82,14 +62,41 @@ const routes: Routes = [
     component: ContactusComponent
   },
   {
-    path: 'sertif',
-    component:SertifComponent
-  },
-  {
     path: 'zyxwv',
     component:ZyxwvComponent
-  }
-  
+  },
+  {
+    path: 'jklpo',
+    component:JklpoComponent
+  },
+  {
+    path: 'nmirf',
+    component:NmirfComponent
+  },
+  {
+    path: 'aqwsd',
+    component:AqwsdComponent
+  },
+  {
+    path: 'kplum',
+    component:KplumComponent
+  },
+  {
+    path: 'qwert',
+    component:QwertComponent
+  },
+  {
+    path: 'yuiop',
+    component:YuiopComponent
+  },
+  {
+    path: 'asdfg',
+    component:AsdfgComponent
+  },
+  {
+    path: 'zxcvb',
+    component:ZxcvbComponent
+  },
 ];
 
 @NgModule({

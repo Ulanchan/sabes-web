@@ -20,6 +20,14 @@ import { VideopopupDirective } from './videopopup.directive';
 import { SafePipe } from './safe.pipe';
 import { SertifComponent } from './sertif/sertif.component';
 import { ZyxwvComponent } from './zyxwv/zyxwv.component';
+import { JklpoComponent } from './jklpo/jklpo.component';
+import { NmirfComponent } from './nmirf/nmirf.component';
+import { AqwsdComponent } from './aqwsd/aqwsd.component';
+import { KplumComponent } from './kplum/kplum.component';
+import { QwertComponent } from './qwert/qwert.component';
+import { YuiopComponent } from './yuiop/yuiop.component';
+import { AsdfgComponent } from './asdfg/asdfg.component';
+import { ZxcvbComponent } from './zxcvb/zxcvb.component';
 
 
 @NgModule({
@@ -40,6 +48,14 @@ import { ZyxwvComponent } from './zyxwv/zyxwv.component';
     SafePipe,
     SertifComponent,
     ZyxwvComponent,
+    JklpoComponent,
+    NmirfComponent,
+    AqwsdComponent,
+    KplumComponent,
+    QwertComponent,
+    YuiopComponent,
+    AsdfgComponent,
+    ZxcvbComponent,
    
   ],
   imports: [CommonModule, LightboxModule],
