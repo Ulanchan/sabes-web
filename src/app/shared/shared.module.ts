@@ -28,6 +28,22 @@ import { QwertComponent } from './qwert/qwert.component';
 import { YuiopComponent } from './yuiop/yuiop.component';
 import { AsdfgComponent } from './asdfg/asdfg.component';
 import { ZxcvbComponent } from './zxcvb/zxcvb.component';
+import { KjmopComponent } from './kjmop/kjmop.component';
+import { ZsdrtComponent } from './zsdrt/zsdrt.component';
+import { QxzawComponent } from './qxzaw/qxzaw.component';
+import { PoiuyComponent } from './poiuy/poiuy.component';
+import { KjhgfComponent } from './kjhgf/kjhgf.component';
+import { LkjhgComponent } from './lkjhg/lkjhg.component';
+import { HgbvcComponent } from './hgbvc/hgbvc.component';
+import { RtyuiComponent } from './rtyui/rtyui.component';
+import { CvbnmComponent } from './cvbnm/cvbnm.component';
+import { MnbvcComponent } from './mnbvc/mnbvc.component';
+import { QazwsComponent } from './qazws/qazws.component';
+import { XdfghComponent } from './xdfgh/xdfgh.component';
+import { ErtyuComponent } from './ertyu/ertyu.component';
+import { UytrfComponent } from './uytrf/uytrf.component';
+import { AqxwsComponent } from './aqxws/aqxws.component';
+import { WerzxComponent } from './werzx/werzx.component';
 
 
 @NgModule({
@@ -56,6 +72,22 @@ import { ZxcvbComponent } from './zxcvb/zxcvb.component';
     YuiopComponent,
     AsdfgComponent,
     ZxcvbComponent,
+    KjmopComponent,
+    ZsdrtComponent,
+    QxzawComponent,
+    PoiuyComponent,
+    KjhgfComponent,
+    LkjhgComponent,
+    HgbvcComponent,
+    RtyuiComponent,
+    CvbnmComponent,
+    MnbvcComponent,
+    QazwsComponent,
+    XdfghComponent,
+    ErtyuComponent,
+    UytrfComponent,
+    AqxwsComponent,
+    WerzxComponent,
    
   ],
   imports: [CommonModule, LightboxModule],

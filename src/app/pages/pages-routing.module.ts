@@ -24,6 +24,25 @@ import { QwertComponent } from '../shared/qwert/qwert.component';
 import { YuiopComponent } from '../shared/yuiop/yuiop.component';
 import { AsdfgComponent } from '../shared/asdfg/asdfg.component';
 import { ZxcvbComponent } from '../shared/zxcvb/zxcvb.component';
+import { TghbnComponent } from '../tghbn/tghbn.component';
+import { VcrtyComponent } from '../vcrty/vcrty.component';
+import { LnmkoComponent } from '../lnmko/lnmko.component';
+import { KjmopComponent } from '../shared/kjmop/kjmop.component';
+import { ZsdrtComponent } from '../shared/zsdrt/zsdrt.component';
+import { QxzawComponent } from '../shared/qxzaw/qxzaw.component';
+import { PoiuyComponent } from '../shared/poiuy/poiuy.component';
+import { KjhgfComponent } from '../shared/kjhgf/kjhgf.component';
+import { LkjhgComponent } from '../shared/lkjhg/lkjhg.component';
+import { HgbvcComponent } from '../shared/hgbvc/hgbvc.component';
+import { RtyuiComponent } from '../shared/rtyui/rtyui.component';
+import { CvbnmComponent } from '../shared/cvbnm/cvbnm.component';
+import { MnbvcComponent } from '../shared/mnbvc/mnbvc.component';
+import { QazwsComponent } from '../shared/qazws/qazws.component';
+import { XdfghComponent } from '../shared/xdfgh/xdfgh.component';
+import { ErtyuComponent } from '../shared/ertyu/ertyu.component';
+import { UytrfComponent } from '../shared/uytrf/uytrf.component';
+import { AqxwsComponent } from '../shared/aqxws/aqxws.component';
+import { WerzxComponent } from '../shared/werzx/werzx.component';
 
 
 
@@ -96,6 +115,86 @@ const routes: Routes = [
   {
     path: 'zxcvb',
     component:ZxcvbComponent
+  },
+  {
+    path: 'tghbn',
+    component:TghbnComponent
+  },
+  {
+    path: 'vcrty',
+    component:VcrtyComponent
+  },
+  {
+    path: 'lnmko',
+    component:LnmkoComponent
+  },
+  {
+    path: 'kjmop',
+    component:KjmopComponent
+  },
+  {
+    path: 'zsdrt',
+    component:ZsdrtComponent
+  },
+  {
+    path: 'qxzaw',
+    component:QxzawComponent
+  },
+  {
+    path: 'poiuy',
+    component:PoiuyComponent
+  },
+  {
+    path: 'kjhgf',
+    component:KjhgfComponent
+  },
+  {
+    path: 'lkjhg',
+    component:LkjhgComponent
+  },
+  {
+    path: 'lkjhg',
+    component:LkjhgComponent
+  },
+  {
+    path: 'hgbvc',
+    component:HgbvcComponent
+  },
+  {
+    path: 'rtyui',
+    component:RtyuiComponent
+  },
+  {
+    path: 'cvbnm',
+    component:CvbnmComponent
+  },
+  {
+    path: 'mnbvc',
+    component:MnbvcComponent
+  },
+  {
+    path: 'qazws',
+    component:QazwsComponent
+  },
+  {
+    path: 'xdfgh',
+    component:XdfghComponent
+  },
+  {
+    path: 'ertyu',
+    component:ErtyuComponent
+  },
+  {
+    path: 'uytrf',
+    component:UytrfComponent
+  },
+  {
+    path: 'aqxws',
+    component:AqxwsComponent
+  },
+  {
+    path: 'werzx',
+    component:WerzxComponent
   },
 ];
 
