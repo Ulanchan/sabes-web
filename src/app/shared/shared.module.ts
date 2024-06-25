@@ -56,6 +56,32 @@ import { YvkoComponent } from './yvko/yvko.component';
 import { AnvdComponent } from './anvd/anvd.component';
 import { XsvkComponent } from './xsvk/xsvk.component';
 import { QcfvComponent } from './qcfv/qcfv.component';
+import { NfdoComponent } from './nfdo/nfdo.component';
+import { UzvzComponent } from './uzvz/uzvz.component';
+import { PgaqComponent } from './pgaq/pgaq.component';
+import { GhdiComponent } from './ghdi/ghdi.component';
+import { VyvgComponent } from './vyvg/vyvg.component';
+import { SjuiComponent } from './sjui/sjui.component';
+import { ZunzComponent } from './zunz/zunz.component';
+import { VbvsComponent } from './vbvs/vbvs.component';
+import { IjzeComponent } from './ijze/ijze.component';
+import { VmokComponent } from './vmok/vmok.component';
+import { CqiqComponent } from './cqiq/cqiq.component';
+import { MiazComponent } from './miaz/miaz.component';
+import { IzjaComponent } from './izja/izja.component';
+import { IsjbComponent } from './isjb/isjb.component';
+import { FedcComponent } from './fedc/fedc.component';
+import { ZrmiComponent } from './zrmi/zrmi.component';
+import { NlujComponent } from './nluj/nluj.component';
+import { ImrjComponent } from './imrj/imrj.component';
+import { WqprComponent } from './wqpr/wqpr.component';
+import { CxinComponent } from './cxin/cxin.component';
+import { IdrrComponent } from './idrr/idrr.component';
+import { EobgComponent } from './eobg/eobg.component';
+import { RbtaComponent } from './rbta/rbta.component';
+import { KfxbComponent } from './kfxb/kfxb.component';
+import { JhuqComponent } from './jhuq/jhuq.component';
+import { VczmComponent } from './vczm/vczm.component';
 
 @NgModule({
   declarations: [
@@ -111,6 +137,32 @@ import { QcfvComponent } from './qcfv/qcfv.component';
     AnvdComponent,
     XsvkComponent,
     QcfvComponent,
+    NfdoComponent,
+    UzvzComponent,
+    PgaqComponent,
+    GhdiComponent,
+    VyvgComponent,
+    SjuiComponent,
+    ZunzComponent,
+    VbvsComponent,
+    IjzeComponent,
+    VmokComponent,
+    CqiqComponent,
+    MiazComponent,
+    IzjaComponent,
+    IsjbComponent,
+    FedcComponent,
+    ZrmiComponent,
+    NlujComponent,
+    ImrjComponent,
+    WqprComponent,
+    CxinComponent,
+    IdrrComponent,
+    EobgComponent,
+    RbtaComponent,
+    KfxbComponent,
+    JhuqComponent,
+    VczmComponent,
   ],
   imports: [CommonModule, LightboxModule],
   exports: [
