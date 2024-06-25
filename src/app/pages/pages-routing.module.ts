@@ -26,7 +26,7 @@ import { AsdfgComponent } from '../shared/asdfg/asdfg.component';
 import { ZxcvbComponent } from '../shared/zxcvb/zxcvb.component';
 import { TghbnComponent } from '../tghbn/tghbn.component';
 import { VcrtyComponent } from '../vcrty/vcrty.component';
-import { LnmkoComponent } from '../lnmko/lnmko.component';
+import { LnmkoComponent } from '../shared/lnmko/lnmko.component';
 import { KjmopComponent } from '../shared/kjmop/kjmop.component';
 import { ZsdrtComponent } from '../shared/zsdrt/zsdrt.component';
 import { QxzawComponent } from '../shared/qxzaw/qxzaw.component';
@@ -54,6 +54,25 @@ import { RlgcComponent } from '../shared/rlgc/rlgc.component';
 import { YvkoComponent } from '../shared/yvko/yvko.component';
 import { AnvdComponent } from '../shared/anvd/anvd.component';
 import { XsvkComponent } from '../shared/xsvk/xsvk.component';
+import { QcfvComponent } from '../shared/qcfv/qcfv.component';
+import { AmihComponent } from '../shared/amih/amih.component';
+import { CdruComponent } from '../shared/cdru/cdru.component';
+import { CiwqComponent } from '../shared/ciwq/ciwq.component';
+import { IrexComponent } from '../shared/irex/irex.component';
+import { YcxdComponent } from '../shared/ycxd/ycxd.component';
+import { WyoiComponent } from '../shared/wyoi/wyoi.component';
+import { XslhComponent } from '../shared/xslh/xslh.component';
+import { PtqhComponent } from '../shared/ptqh/ptqh.component';
+import { IkjoComponent } from '../shared/ikjo/ikjo.component';
+import { WmcoComponent } from '../shared/wmco/wmco.component';
+import { ZbrkComponent } from '../shared/zbrk/zbrk.component';
+import { MueuComponent } from '../shared/mueu/mueu.component';
+import { MrjjComponent } from '../shared/mrjj/mrjj.component';
+import { KoriComponent } from '../shared/kori/kori.component';
+import { IsbgComponent } from '../shared/isbg/isbg.component';
+import { TxmeComponent } from '../shared/txme/txme.component';
+import { OygaComponent } from '../shared/oyga/oyga.component';
+import { UclrComponent } from '../shared/uclr/uclr.component';
 
 const routes: Routes = [
   {
@@ -248,6 +267,82 @@ const routes: Routes = [
   {
     path: 'XSVK',
     component: XsvkComponent,
+  },
+  {
+    path: 'QCFV',
+    component: QcfvComponent,
+  },
+  {
+    path: 'AMIH',
+    component: AmihComponent,
+  },
+  {
+    path: 'CDRU',
+    component: CdruComponent,
+  },
+  {
+    path: 'CIWQ',
+    component: CiwqComponent,
+  },
+  {
+    path: 'IREX',
+    component: IrexComponent,
+  },
+  {
+    path: 'YCXD',
+    component: YcxdComponent,
+  },
+  {
+    path: 'WYOI',
+    component: WyoiComponent,
+  },
+  {
+    path: 'XSLH',
+    component: XslhComponent,
+  },
+  {
+    path: 'PTQH',
+    component: PtqhComponent,
+  },
+  {
+    path: 'IKJO',
+    component: IkjoComponent,
+  },
+  {
+    path: 'WMCO',
+    component: WmcoComponent,
+  },
+  {
+    path: 'ZBRK',
+    component: ZbrkComponent,
+  },
+  {
+    path: 'MUEU',
+    component: MueuComponent,
+  },
+  {
+    path: 'MRJJ',
+    component: MrjjComponent,
+  },
+  {
+    path: 'KORI',
+    component: KoriComponent,
+  },
+  {
+    path: 'ISBG',
+    component: IsbgComponent,
+  },
+  {
+    path: 'TXME',
+    component: TxmeComponent,
+  },
+  {
+    path: 'OYGA',
+    component: OygaComponent,
+  },
+  {
+    path: 'UCLR',
+    component: UclrComponent,
   },
 ];
 
