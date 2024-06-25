@@ -24,6 +24,9 @@ import { CiwqComponent } from './shared/ciwq/ciwq.component';
 import { TxmeComponent } from './shared/txme/txme.component';
 import { OygaComponent } from './shared/oyga/oyga.component';
 import { UclrComponent } from './shared/uclr/uclr.component';
+import { FdcvbComponent } from './shared/fdcvb/fdcvb.component';
+import { PlmnkComponent } from './shared/plmnk/plmnk.component';
+import { NfdoComponent } from './shared/nfdo/nfdo.component';
 
 @NgModule({
   declarations: [
@@ -49,6 +52,9 @@ import { UclrComponent } from './shared/uclr/uclr.component';
     TxmeComponent,
     OygaComponent,
     UclrComponent,
+    FdcvbComponent,
+    PlmnkComponent,
+    NfdoComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, LightboxModule],
   providers: [],
