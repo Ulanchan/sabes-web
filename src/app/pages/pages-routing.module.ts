@@ -206,48 +206,48 @@ const routes: Routes = [
     component: WerzxComponent,
   },
   {
-    path: 'julg',
+    path: 'cfgq',
+    component: CfgqComponent,
+  },
+  {
+    path: 'JULG',
     component: JULGComponent,
   },
   {
-    path: 'vdqw',
+    path: 'VDQW',
     component: VDQWComponent,
   },
   {
-    path: 'pkqu',
+    path: 'PKQU',
     component: PKQUComponent,
   },
   {
-    path: 'oqad',
+    path: 'OQAD',
     component: OQADComponent,
   },
   {
-    path: 'ylpo',
+    path: 'YLPO',
     component: YLPOComponent,
   },
   {
-    path: 'zzkz',
+    path: 'ZZKZ',
     component: ZzkzComponent,
   },
   {
-    path: 'rlgc',
+    path: 'RLGC',
     component: RlgcComponent,
   },
   {
-    path: 'yvko',
+    path: 'YVKO',
     component: YvkoComponent,
   },
   {
-    path: 'anvd',
+    path: 'ANVD',
     component: AnvdComponent,
   },
   {
-    path: 'xsvk',
+    path: 'XSVK',
     component: XsvkComponent,
-  },
-  {
-    path: 'cfgq',
-    component: CfgqComponent,
   },
 ];
 
