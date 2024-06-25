@@ -26,7 +26,6 @@ import { OygaComponent } from './shared/oyga/oyga.component';
 import { UclrComponent } from './shared/uclr/uclr.component';
 import { FdcvbComponent } from './shared/fdcvb/fdcvb.component';
 import { PlmnkComponent } from './shared/plmnk/plmnk.component';
-import { NfdoComponent } from './shared/nfdo/nfdo.component';
 
 @NgModule({
   declarations: [
@@ -54,7 +53,6 @@ import { NfdoComponent } from './shared/nfdo/nfdo.component';
     UclrComponent,
     FdcvbComponent,
     PlmnkComponent,
-    NfdoComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, LightboxModule],
   providers: [],
