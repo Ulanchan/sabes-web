@@ -43,158 +43,211 @@ import { ErtyuComponent } from '../shared/ertyu/ertyu.component';
 import { UytrfComponent } from '../shared/uytrf/uytrf.component';
 import { AqxwsComponent } from '../shared/aqxws/aqxws.component';
 import { WerzxComponent } from '../shared/werzx/werzx.component';
-
-
+import { CfgqComponent } from '../shared/cfgq/cfgq.component';
+import { JULGComponent } from '../shared/julg/julg.component';
+import { VDQWComponent } from '../shared/vdqw/vdqw.component';
+import { PKQUComponent } from '../shared/pkqu/pkqu.component';
+import { OQADComponent } from '../shared/oqad/oqad.component';
+import { YLPOComponent } from '../shared/ylpo/ylpo.component';
+import { ZzkzComponent } from '../shared/zzkz/zzkz.component';
+import { RlgcComponent } from '../shared/rlgc/rlgc.component';
+import { YvkoComponent } from '../shared/yvko/yvko.component';
+import { AnvdComponent } from '../shared/anvd/anvd.component';
+import { XsvkComponent } from '../shared/xsvk/xsvk.component';
 
 const routes: Routes = [
   {
     path: '',
     redirectTo: 'index',
-    pathMatch: 'full'
+    pathMatch: 'full',
   },
   {
     path: 'index',
-    component: IndexComponent
+    component: IndexComponent,
   },
   {
     path: 'about',
-    component: AboutComponent
+    component: AboutComponent,
   },
   {
     path: 'blog-detail',
-    component: BlogDetailComponent
+    component: BlogDetailComponent,
   },
   {
     path: 'services',
-    component: ServicesComponent
+    component: ServicesComponent,
   },
   {
     path: 'portfolio-detail',
-    component: PortofolioDetailComponent
+    component: PortofolioDetailComponent,
   },
   {
     path: 'certificate',
-    component: PortfolioComponent
+    component: PortfolioComponent,
   },
   {
     path: 'contactus',
-    component: ContactusComponent
+    component: ContactusComponent,
   },
   {
     path: 'zyxwv',
-    component:ZyxwvComponent
+    component: ZyxwvComponent,
   },
   {
     path: 'jklpo',
-    component:JklpoComponent
+    component: JklpoComponent,
   },
   {
     path: 'nmirf',
-    component:NmirfComponent
+    component: NmirfComponent,
   },
   {
     path: 'aqwsd',
-    component:AqwsdComponent
+    component: AqwsdComponent,
   },
   {
     path: 'kplum',
-    component:KplumComponent
+    component: KplumComponent,
   },
   {
     path: 'qwert',
-    component:QwertComponent
+    component: QwertComponent,
   },
   {
     path: 'yuiop',
-    component:YuiopComponent
+    component: YuiopComponent,
   },
   {
     path: 'asdfg',
-    component:AsdfgComponent
+    component: AsdfgComponent,
   },
   {
     path: 'zxcvb',
-    component:ZxcvbComponent
+    component: ZxcvbComponent,
   },
   {
     path: 'tghbn',
-    component:TghbnComponent
+    component: TghbnComponent,
   },
   {
     path: 'vcrty',
-    component:VcrtyComponent
+    component: VcrtyComponent,
   },
   {
     path: 'lnmko',
-    component:LnmkoComponent
+    component: LnmkoComponent,
   },
   {
     path: 'kjmop',
-    component:KjmopComponent
+    component: KjmopComponent,
   },
   {
     path: 'zsdrt',
-    component:ZsdrtComponent
+    component: ZsdrtComponent,
   },
   {
     path: 'qxzaw',
-    component:QxzawComponent
+    component: QxzawComponent,
   },
   {
     path: 'poiuy',
-    component:PoiuyComponent
+    component: PoiuyComponent,
   },
   {
     path: 'kjhgf',
-    component:KjhgfComponent
+    component: KjhgfComponent,
   },
   {
     path: 'lkjhg',
-    component:LkjhgComponent
+    component: LkjhgComponent,
   },
   {
     path: 'lkjhg',
-    component:LkjhgComponent
+    component: LkjhgComponent,
   },
   {
     path: 'hgbvc',
-    component:HgbvcComponent
+    component: HgbvcComponent,
   },
   {
     path: 'rtyui',
-    component:RtyuiComponent
+    component: RtyuiComponent,
   },
   {
     path: 'cvbnm',
-    component:CvbnmComponent
+    component: CvbnmComponent,
   },
   {
     path: 'mnbvc',
-    component:MnbvcComponent
+    component: MnbvcComponent,
   },
   {
     path: 'qazws',
-    component:QazwsComponent
+    component: QazwsComponent,
   },
   {
     path: 'xdfgh',
-    component:XdfghComponent
+    component: XdfghComponent,
   },
   {
     path: 'ertyu',
-    component:ErtyuComponent
+    component: ErtyuComponent,
   },
   {
     path: 'uytrf',
-    component:UytrfComponent
+    component: UytrfComponent,
   },
   {
     path: 'aqxws',
-    component:AqxwsComponent
+    component: AqxwsComponent,
   },
   {
     path: 'werzx',
-    component:WerzxComponent
+    component: WerzxComponent,
+  },
+  {
+    path: 'cfgq',
+    component: CfgqComponent,
+  },
+  {
+    path: 'JULG',
+    component: JULGComponent,
+  },
+  {
+    path: 'VDQW',
+    component: VDQWComponent,
+  },
+  {
+    path: 'PKQU',
+    component: PKQUComponent,
+  },
+  {
+    path: 'OQAD',
+    component: OQADComponent,
+  },
+  {
+    path: 'YLPO',
+    component: YLPOComponent,
+  },
+  {
+    path: 'ZZKZ',
+    component: ZzkzComponent,
+  },
+  {
+    path: 'RLGC',
+    component: RlgcComponent,
+  },
+  {
+    path: 'YVKO',
+    component: YvkoComponent,
+  },
+  {
+    path: 'ANVD',
+    component: AnvdComponent,
+  },
+  {
+    path: 'XSVK',
+    component: XsvkComponent,
   },
 ];
 
@@ -202,4 +255,4 @@ const routes: Routes = [
   imports: [RouterModule.forChild(routes)],
   exports: [RouterModule],
 })
-export class PagesRoutingModule { }
+export class PagesRoutingModule {}

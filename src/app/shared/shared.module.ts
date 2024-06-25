@@ -44,7 +44,18 @@ import { ErtyuComponent } from './ertyu/ertyu.component';
 import { UytrfComponent } from './uytrf/uytrf.component';
 import { AqxwsComponent } from './aqxws/aqxws.component';
 import { WerzxComponent } from './werzx/werzx.component';
-
+import { CfgqComponent } from './cfgq/cfgq.component';
+import { JULGComponent } from './julg/julg.component';
+import { VDQWComponent } from './vdqw/vdqw.component';
+import { PKQUComponent } from './pkqu/pkqu.component';
+import { OQADComponent } from './oqad/oqad.component';
+import { YLPOComponent } from './ylpo/ylpo.component';
+import { ZzkzComponent } from './zzkz/zzkz.component';
+import { RlgcComponent } from './rlgc/rlgc.component';
+import { YvkoComponent } from './yvko/yvko.component';
+import { AnvdComponent } from './anvd/anvd.component';
+import { XsvkComponent } from './xsvk/xsvk.component';
+import { QcfvComponent } from './qcfv/qcfv.component';
 
 @NgModule({
   declarations: [
@@ -88,7 +99,18 @@ import { WerzxComponent } from './werzx/werzx.component';
     UytrfComponent,
     AqxwsComponent,
     WerzxComponent,
-   
+    CfgqComponent,
+    JULGComponent,
+    VDQWComponent,
+    PKQUComponent,
+    OQADComponent,
+    YLPOComponent,
+    ZzkzComponent,
+    RlgcComponent,
+    YvkoComponent,
+    AnvdComponent,
+    XsvkComponent,
+    QcfvComponent,
   ],
   imports: [CommonModule, LightboxModule],
   exports: [
@@ -105,7 +127,7 @@ import { WerzxComponent } from './werzx/werzx.component';
     TeamComponent,
     VideopopupDirective,
     ModalVideoComponent,
-    SafePipe
+    SafePipe,
   ],
 })
-export class SharedModule { }
+export class SharedModule {}
