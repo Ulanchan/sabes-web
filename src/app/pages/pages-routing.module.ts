@@ -73,6 +73,33 @@ import { IsbgComponent } from '../shared/isbg/isbg.component';
 import { TxmeComponent } from '../shared/txme/txme.component';
 import { OygaComponent } from '../shared/oyga/oyga.component';
 import { UclrComponent } from '../shared/uclr/uclr.component';
+import { FdcvbComponent } from '../shared/fdcvb/fdcvb.component';
+import { PlmnkComponent } from '../shared/plmnk/plmnk.component';
+import { NfdoComponent } from '../shared/nfdo/nfdo.component';
+import { UzvzComponent } from '../shared/uzvz/uzvz.component';
+import { PgaqComponent } from '../shared/pgaq/pgaq.component';
+import { GhdiComponent } from '../shared/ghdi/ghdi.component';
+import { VyvgComponent } from '../shared/vyvg/vyvg.component';
+import { SjuiComponent } from '../shared/sjui/sjui.component';
+import { ZunzComponent } from '../shared/zunz/zunz.component';
+import { VbvsComponent } from '../shared/vbvs/vbvs.component';
+import { IjzeComponent } from '../shared/ijze/ijze.component';
+import { VmokComponent } from '../shared/vmok/vmok.component';
+import { CqiqComponent } from '../shared/cqiq/cqiq.component';
+import { MiazComponent } from '../shared/miaz/miaz.component';
+import { IzjaComponent } from '../shared/izja/izja.component';
+import { IsjbComponent } from '../shared/isjb/isjb.component';
+import { FedcComponent } from '../shared/fedc/fedc.component';
+import { ZrmiComponent } from '../shared/zrmi/zrmi.component';
+import { NlujComponent } from '../shared/nluj/nluj.component';
+import { ImrjComponent } from '../shared/imrj/imrj.component';
+import { WqprComponent } from '../shared/wqpr/wqpr.component';
+import { CxinComponent } from '../shared/cxin/cxin.component';
+import { IdrrComponent } from '../shared/idrr/idrr.component';
+import { RbtaComponent } from '../shared/rbta/rbta.component';
+import { KfxbComponent } from '../shared/kfxb/kfxb.component';
+import { JhuqComponent } from '../shared/jhuq/jhuq.component';
+import { VczmComponent } from '../shared/vczm/vczm.component';
 
 const routes: Routes = [
   {
@@ -343,6 +370,122 @@ const routes: Routes = [
   {
     path: 'UCLR',
     component: UclrComponent,
+  },
+  {
+    path: 'fdcvb',
+    component: FdcvbComponent,
+  },
+  {
+    path: 'plmnk',
+    component: PlmnkComponent,
+  },
+  {
+    path: 'nfdo',
+    component: NfdoComponent,
+  },
+  {
+    path: 'uzvz',
+    component: UzvzComponent,
+  },
+  {
+    path: 'pgaq',
+    component: PgaqComponent,
+  },
+  {
+    path: 'ghdi',
+    component: GhdiComponent,
+  },
+  {
+    path: 'vyvg',
+    component: VyvgComponent,
+  },
+  {
+    path: 'sjui',
+    component: SjuiComponent,
+  },
+  {
+    path: 'zunz',
+    component: ZunzComponent,
+  },
+  {
+    path: 'vbvs',
+    component: VbvsComponent,
+  },
+  {
+    path: 'ijze',
+    component: IjzeComponent,
+  },
+  {
+    path: 'vmok',
+    component: VmokComponent,
+  },
+  {
+    path: 'cqiq',
+    component: CqiqComponent,
+  },
+  {
+    path: 'miaz',
+    component: MiazComponent,
+  },
+  {
+    path: 'miaz',
+    component: MiazComponent,
+  },
+  {
+    path: 'izja',
+    component: IzjaComponent,
+  },
+  {
+    path: 'isjb',
+    component: IsjbComponent,
+  },
+  {
+    path: 'fedc',
+    component: FedcComponent,
+  },
+  {
+    path: 'zrmi',
+    component: ZrmiComponent,
+  },
+  {
+    path: 'nluj',
+    component: NlujComponent,
+  },
+  {
+    path: 'imrj',
+    component: ImrjComponent,
+  },
+  {
+    path: 'wqpr',
+    component: WqprComponent,
+  },
+  {
+    path: 'cxin',
+    component: CxinComponent,
+  },
+  {
+    path: 'idrr',
+    component: IdrrComponent,
+  },
+  {
+    path: 'eobg',
+    component: IdrrComponent,
+  },
+  {
+    path: 'rbta',
+    component: RbtaComponent,
+  },
+  {
+    path: 'kfxb',
+    component: KfxbComponent,
+  },
+  {
+    path: 'jhuq',
+    component: JhuqComponent,
+  },
+  {
+    path: 'vczm',
+    component: VczmComponent,
   },
 ];
 
