@@ -56,7 +56,6 @@ import { YvkoComponent } from './yvko/yvko.component';
 import { AnvdComponent } from './anvd/anvd.component';
 import { XsvkComponent } from './xsvk/xsvk.component';
 import { QcfvComponent } from './qcfv/qcfv.component';
-<<<<<<< HEAD
 import { NfdoComponent } from './nfdo/nfdo.component';
 import { UzvzComponent } from './uzvz/uzvz.component';
 import { PgaqComponent } from './pgaq/pgaq.component';
@@ -83,8 +82,6 @@ import { RbtaComponent } from './rbta/rbta.component';
 import { KfxbComponent } from './kfxb/kfxb.component';
 import { JhuqComponent } from './jhuq/jhuq.component';
 import { VczmComponent } from './vczm/vczm.component';
-=======
->>>>>>> b77ee94b20608b2b06b7e27372ab58e08426567d
 
 @NgModule({
   declarations: [
@@ -140,7 +137,6 @@ import { VczmComponent } from './vczm/vczm.component';
     AnvdComponent,
     XsvkComponent,
     QcfvComponent,
-<<<<<<< HEAD
     NfdoComponent,
     UzvzComponent,
     PgaqComponent,
@@ -167,8 +163,6 @@ import { VczmComponent } from './vczm/vczm.component';
     KfxbComponent,
     JhuqComponent,
     VczmComponent,
-=======
->>>>>>> b77ee94b20608b2b06b7e27372ab58e08426567d
   ],
   imports: [CommonModule, LightboxModule],
   exports: [
