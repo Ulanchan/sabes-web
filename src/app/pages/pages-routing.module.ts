@@ -54,6 +54,7 @@ import { RlgcComponent } from '../shared/rlgc/rlgc.component';
 import { YvkoComponent } from '../shared/yvko/yvko.component';
 import { AnvdComponent } from '../shared/anvd/anvd.component';
 import { XsvkComponent } from '../shared/xsvk/xsvk.component';
+<<<<<<< HEAD
 import { QcfvComponent } from '../shared/qcfv/qcfv.component';
 import { AmihComponent } from '../shared/amih/amih.component';
 import { CdruComponent } from '../shared/cdru/cdru.component';
@@ -73,6 +74,8 @@ import { IsbgComponent } from '../shared/isbg/isbg.component';
 import { TxmeComponent } from '../shared/txme/txme.component';
 import { OygaComponent } from '../shared/oyga/oyga.component';
 import { UclrComponent } from '../shared/uclr/uclr.component';
+=======
+>>>>>>> b77ee94b20608b2b06b7e27372ab58e08426567d
 
 const routes: Routes = [
   {
@@ -225,6 +228,7 @@ const routes: Routes = [
     component: WerzxComponent,
   },
   {
+<<<<<<< HEAD
     path: 'cfgq',
     component: CfgqComponent,
   },
@@ -343,6 +347,50 @@ const routes: Routes = [
   {
     path: 'UCLR',
     component: UclrComponent,
+=======
+    path: 'julg',
+    component: JULGComponent,
+  },
+  {
+    path: 'vdqw',
+    component: VDQWComponent,
+  },
+  {
+    path: 'pkqu',
+    component: PKQUComponent,
+  },
+  {
+    path: 'oqad',
+    component: OQADComponent,
+  },
+  {
+    path: 'ylpo',
+    component: YLPOComponent,
+  },
+  {
+    path: 'zzkz',
+    component: ZzkzComponent,
+  },
+  {
+    path: 'rlgc',
+    component: RlgcComponent,
+  },
+  {
+    path: 'yvko',
+    component: YvkoComponent,
+  },
+  {
+    path: 'anvd',
+    component: AnvdComponent,
+  },
+  {
+    path: 'xsvk',
+    component: XsvkComponent,
+  },
+  {
+    path: 'cfgq',
+    component: CfgqComponent,
+>>>>>>> b77ee94b20608b2b06b7e27372ab58e08426567d
   },
 ];
 
